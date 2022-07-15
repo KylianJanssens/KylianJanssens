@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KylianJanssens
 - 👀 I’m interested in Learning how to code
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on project with fellow students
+- 💞️ I’m looking to collaborate on projects with fellow students
 - 📫 You can reach me by mail: kylianjanssens@hotmail.com
 
 <!---
