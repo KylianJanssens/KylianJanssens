@@ -1,14 +1,20 @@
-# Hi, I'm Kylian Janssens
+# Hello, I'm Kylian Janssens!
 
-I'm a passionate web developer with a background in full-stack web development. I recently completed the Fullstack Web Development Bootcamp at Le Wagon, where I honed my skills in web development using various technologies.
+I recently completed a Fullstack Web Development Bootcamp at Le Wagon, where I gained valuable skills in web development. My journey into the world of programming has allowed me to explore various languages and technologies, with a strong focus on:
 
-## What I Work With
+- Ruby
+- JavaScript
+- HTML
+- CSS
 
-- **Languages:** Ruby, JavaScript, HTML, and CSS
-- **Framework:** Ruby on Rails
+I am particularly passionate about web development and have been working extensively with the Ruby on Rails framework to build web applications. My experience with Rails has given me the ability to create robust, user-friendly web applications.
 
-## What I'm Seeking
+I am currently actively seeking opportunities as a Junior Web Developer. I am enthusiastic about expanding my knowledge in programming and open to learning new languages and frameworks. I am eager to bring my skills to a team and contribute to exciting projects.
 
-I'm actively looking for opportunities as a Junior Web Developer. I'm excited to contribute to projects, learn new technologies, and collaborate with fellow developers. If you have any exciting opportunities, feel free to get in touch.
+If you are interested in collaborating or want to learn more about my work, please feel free to reach out. Let's connect and explore the endless possibilities of the web development world!
 
-Let's connect and build amazing web applications together!
+Looking forward to new challenges and exciting projects.
+
+You can reach me at [kylianjanssens@hotmail.com](mailto:your_kylianjanssens@hotmail.com).
+
+LinkedIn: [Kylian Janssens](https://www.linkedin.com/in/kylianjanssens/)
