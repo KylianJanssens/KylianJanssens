@@ -1,9 +1,9 @@
 # Hello, I'm Kylian Janssens!
 
-I recently completed a Fullstack Web Development Bootcamp at Le Wagon, where I gained valuable skills in web development. My journey into the world of programming has allowed me to explore various languages and technologies, with a strong focus on:
+I am a Fullstack Web Developer, with a strong focus on:
 
 - Ruby on Rails
-- JavaScript
+- React Typescript
 - HTML
 - CSS
 
