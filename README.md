@@ -22,7 +22,7 @@ Before writing code, I spent 7 years running an automotive repair shop. That bac
 
 Building high-volume automation pipelines for public sector debt collection — think thousands of invoices, reminders, and documents processed reliably instead of manually. A lot of my day-to-day is moving synchronous work into background jobs and making sure failures get caught before they cascade.
 
-On the side, I'm building **[project name]**, a multi-tenant damage management platform for automotive repair businesses — repair tracking, cost estimation, and photo management in one place. It's a problem I lived firsthand before I became a developer.
+On the side, I'm building a multi-tenant damage management platform for automotive repair businesses — repair tracking, cost estimation, and photo management in one place. It's a problem I lived firsthand before I became a developer.
 
 ## 📫 Let's connect
 
